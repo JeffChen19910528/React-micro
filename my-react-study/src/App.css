@@ -1,0 +1,16 @@
+h1{
+    color: blue;
+}
+
+
+.normal{
+    font-size: 30px;
+}
+
+.pass{
+    color: green;
+}
+
+.fail{
+    color: red;
+}
